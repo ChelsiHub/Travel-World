@@ -1,7 +1,7 @@
 # ✈️ Travel World: MERN Stack Tours & Travel Booking Platform
 
-A full-stack MERN web application engineered for high-availability tour booking and destination exploration.  
-This project showcases proficiency in developing secure, scalable RESTful APIs and building robust, component-driven user interfaces—demonstrating readiness for MNC-level Full-Stack roles.
+> **A full-stack MERN web application engineered for high-availability tour booking and destination exploration.  
+This project showcases proficiency in developing secure, scalable RESTful APIs and building robust, component-driven user interfaces—demonstrating readiness for MNC-level Full-Stack roles.**
  ---
 
  ## 🎯 Key Features Implemented
