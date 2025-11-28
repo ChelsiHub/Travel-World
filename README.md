@@ -15,11 +15,6 @@ This project demonstrates end-to-end MERN development, including authentication,
 
 
 
-🚀 Live Demo
-
-(Add your deployment link when ready)
-👉 Live URL: https://your-live-site-link.com
-
 📸 Screenshots
 
 (Add images later — example placeholder)
@@ -104,10 +99,10 @@ Tours-and-Travels-MERN/
 
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/YourUsername/Tours-and-Travels-MERN.git
+git clone https://github.com/ChelsiHub/Travel-World.git
 
 2. Move into the project
-cd Tours-and-Travels-MERN
+cd Travel-World
 
 Backend Setup
 cd server
