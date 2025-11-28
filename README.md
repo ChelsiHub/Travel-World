@@ -140,15 +140,16 @@ These images showcase the modern UI/UX and key functionalities of the Travel Wor
 
 ## 👩‍💻 Developer & Contact
 
-**Chelsi Patoliya | Full-Stack MERN Developer**  
+**Chelsi Patoliya | Full-Stack MERN Developer**
 
-Seeking challenging roles where I can leverage my expertise in secure API design and scalable application development.
+Showcasing proficiency in building scalable, secure, and well-architected web applications.
 
-**Platform Links:**
+**Contact Information:**
 
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/chelsipatoliya0316)  
-- 💻 GitHub: [View My Repositories](https://github.com/ChelsiHub)  
-- 📍 Location: Ahmedabad, Gujarat  
+- 📧 Email: chelsipatoliya@gmail.com  
+- 📱 Phone: +91 9313373532  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/chelsipatoliya0316](https://www.linkedin.com/in/chelsipatoliya0316)  
+- 💻 GitHub: [https://github.com/ChelsiHub](https://github.com/ChelsiHub)   
 
 ---
 
