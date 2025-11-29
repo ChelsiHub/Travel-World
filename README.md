@@ -129,26 +129,26 @@ Showcasing adherence to clean REST principles:
 
 ## 📸 Application Screenshots
 
+### 🏠 Home Page
+Main landing page showcasing the Travel-World brand and navigation options.
+![Home Page](./ScreenShots/home.png)
 
 ### 🧭 About Page
-Information page describing the Travel-World platform, mission, and quick navigation links.
-![About Page](./screenshots/about.png)
+Page describing the platform, mission, and quick access links.
+![About Page](./ScreenShots/about.png)
 
 ### 🔐 Login Page
-Simple and clean login interface for existing users to access their accounts.
-![Login Page](./screenshots/login.png)
+User login interface for existing travelers to access their accounts.
+![Login Page](./ScreenShots/login.png)
 
 ### 📝 Register Page
-User registration screen where new travelers can create an account.
-![Register Page](./screenshots/register.png)
-
-### 🏠 Home Page 
-Personalized dashboard-like home page shown to authenticated users.
-![Home Page After Login](./screenshots/home.png)
+Registration screen where new users can create an account.
+![Register Page](./ScreenShots/register.png)
 
 ### 🗺️ Tours Page
-List of all available tours with destination previews and pricing.
-![Tours Page](./screenshots/tours.png)
+Displays all available tours with destination details and pricing.
+![Tours Page](./ScreenShots/tours.png)
+
 
 
 ---
