@@ -127,14 +127,32 @@ Showcasing adherence to clean REST principles:
 
 ---
 
-## 📸 Screenshots (Visual Proof)
+## 📸 Application Screenshots
 
-These images showcase the modern UI/UX and key functionalities of the Travel World application:
+### 🏠 Home Page (Before Login)
+The landing page displayed to visitors before authentication, featuring brand introduction and navigation.
+![Home Page Before Login](./screenshots/homepagebeforelogin.png)
 
-![Home Page](./screenshots/homepagebeforelogin.png)
-![Tour Listing](./screenshots/tours.png)
-![Booking Flow](./screenshots/booking.png)
-![User Dashboard](./screenshots/dashboard.png)
+### 🧭 About Page
+Information page describing the Travel-World platform, mission, and quick navigation links.
+![About Page](./screenshots/aboutpage.png)
+
+### 🔐 Login Page
+Simple and clean login interface for existing users to access their accounts.
+![Login Page](./screenshots/loginpage.png)
+
+### 📝 Register Page
+User registration screen where new travelers can create an account.
+![Register Page](./screenshots/registerpage.png)
+
+### 🏠 Home Page (After Login)
+Personalized dashboard-like home page shown to authenticated users.
+![Home Page After Login](./screenshots/homepageafterlogin.png)
+
+### 🗺️ Tours Page
+List of all available tours with destination previews and pricing.
+![Tours Page](./screenshots/tourspage.png)
+
 
 ---
 
