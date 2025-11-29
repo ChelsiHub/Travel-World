@@ -131,7 +131,7 @@ Showcasing adherence to clean REST principles:
 
 These images showcase the modern UI/UX and key functionalities of the Travel World application:
 
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/homepagebeforelogin.png)
 ![Tour Listing](./screenshots/tours.png)
 ![Booking Flow](./screenshots/booking.png)
 ![User Dashboard](./screenshots/dashboard.png)
