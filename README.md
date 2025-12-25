@@ -168,8 +168,6 @@ Showcasing proficiency in building scalable, secure, and well-architected web ap
 
 ---
 
-## 🤝 Contributions
+## License
 
-Suggestions, bug reports, and feature pull requests are highly welcomed!  
-Please feel free to fork the repository and submit a **Pull Request**.
-
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
